@@ -1,0 +1,4 @@
+In telecommunications, a communications protocol is a system of digital rules for data exchange within or between computers. 
+In computer science, when data is exchanged through a computer network, the rules system is called a network protocol.
+Communicating systems use well-defined formats for exchanging messages. Each message has an exact meaning intended to provoke a particular response of the receiver. 
+Thus, a protocol must define the syntax, semantics, and synchronization of communication; the specified behavior is typically independent of how it is to be implemented. 

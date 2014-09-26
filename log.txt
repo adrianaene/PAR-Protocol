@@ -1,0 +1,310 @@
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 0
+CheckSum: 00100000
+mesaj primit corect: In telecommunications, a com
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 1
+Payload: munications protocol is a system of ditital rules for
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 1(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 1
+CheckSum: 01101111
+mesaj primit corect: munications protocol is a system of digital rules for
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 2
+Payload:  f
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 2(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 2
+CheckSum: 01000100
+mesaj primit corect:  d
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 3
+Payload: ata exchange within or between compuKers. 
+
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 3(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 3
+Payload: ata exchan	e within or between computers. 
+
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 3(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 3
+CheckSum: 01001101
+mesaj primit corect: ata exchange within or between computers. 
+
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 4
+Payload: I+ com
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 4(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 4
+Payload: Inocom
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 4(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 4
+CheckSum: 01100110
+mesaj primit corect: In com
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 5
+Payload: puter scince, when data is exchanged through a 
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 5(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 5
+CheckSum: 01000101
+mesaj primit corect: puter science, when data is exchanged through a 
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 6
+CheckSum: 00001100
+mesaj primit corect: computer network, the rules system is called a
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 7
+Payload:  netwrk protocol.
+
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 7(ultimul cadru corect pe care l-am primit)
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Trimit ACK:
+Seq_No: 7
+CheckSum: 01001100
+mesaj primit corect:  network protocol.
+
+--------------------------------------------------------------------
+[receiver] 2014-03-24 21: 2:49
+Am primit urmatorul pachet:
+Seq_No: 8
+Payload: Commuaicating systems use w
+Am calculat checksum si am detectat eroare. Voi trimite ACK pentru Seq No 8(ultimul cadru cor[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 0
+Payload: In telecommunications, a com
+CheckSum: 00100000
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 1
+Payload: munications protocol is a system of digital rules for
+CheckSum: 01101111
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 1
+Payload: munications protocol is a system of digital rules for
+CheckSum: 01101111
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 2
+Payload:  d
+CheckSum: 01000100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 2
+Payload:  d
+CheckSum: 01000100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 3
+Payload: ata exchange within or between computers. 
+
+CheckSum: 01001101
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 3
+Payload: ata exchange within or between computers. 
+
+CheckSum: 01001101
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 3
+Payload: ata exchange within or between computers. 
+
+CheckSum: 01001101
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 4
+Payload: In com
+CheckSum: 01100110
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 4
+Payload: In com
+CheckSum: 01100110
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 4
+Payload: In com
+CheckSum: 01100110
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 5
+Payload: puter science, when data is exchanged through a 
+CheckSum: 01000101
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 5
+Payload: puter science, when data is exchanged through a 
+CheckSum: 01000101
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 6
+Payload: computer network, the rules system is called a
+CheckSum: 00001100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 7
+Payload:  network protocol.
+
+CheckSum: 01001100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 7
+Payload:  network protocol.
+
+CheckSum: 01001100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 8
+Payload: Communicating systems use w
+CheckSum: 00001010
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 8
+Payload: Communicating systems use w
+CheckSum: 00001010
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 9
+Payload: ell-defined formats fo
+CheckSum: 01010000
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 9
+Payload: ell-defined formats fo
+CheckSum: 01010000
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 9
+Payload: ell-defined formats fo
+CheckSum: 01010000
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 10
+Payload: r exc
+CheckSum: 00101100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 11
+Payload: hanging messages. Each message has an exact me
+CheckSum: 00100100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 12
+Payload: aning intended to provoke a particular r
+CheckSum: 00010111
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 13
+Payload: esponse of the rece
+CheckSum: 00110000
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 13
+Payload: esponse of the rece
+CheckSum: 00110000
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 14
+Payload: iver. 
+
+CheckSum: 00001100
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 15
+Payload: Thus, a protocol must define the syntax
+CheckSum: 00001011
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 16
+Payload: , semantics, and synchronization of communication; 
+CheckSum: 00110010
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 16
+Payload: , semantics, and synchronization of communication; 
+CheckSum: 00110010
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 17
+Payload: the specified beha
+CheckSum: 00010101
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 18
+Payload: vior is typically indep
+CheckSum: 00100001
+--------------------------------------------------------------------
+[sender] 2014-03-24 21: 2:50
+Am trimis urmatorul pachet:
+Seq_No: 19
+Payload: endent of how it is to be implemented. 
+
+CheckSum: 00111000
+--------------------------------------------------------------------

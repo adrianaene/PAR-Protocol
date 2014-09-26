@@ -1,0 +1,15 @@
+Ene Adriana
+321 CC
+
+  
+  Am structurat frame-urile senderului in felul urmator: la inceput am mesajul, iar apoi numarul secventei si CheckSum.Pentru receiverul frame-ul trimis are structura: numar secventa si CheckSum. Octetul de detectare a erorilor l-am calculat prin efectuarea operatiei XOR intre toti octetii participanti in frame.Daca am detectat un cadru corupt, atunci acesta l-am retransmis.
+  Pentru a implementa timeout am folosit functia receive_timeout_message din link_emulator.Pentru a simula timeout, folosesc loss. 
+  Intervalul pentru timeout l-am ales a.i sa permita suficient timp pentru ca pachetul sa ajunga la receiver, pentru ca receiver-ul sa-l proceseze si sa trimita inapoi confirmarea (ACK). 
+   Dupa trimiterea unui cadru , sender-ul asteapta sa se intample un eveniment din cele trei enumerate mai jos: primirea de ACK corect, ACK eronat, timeout. Daca a sosit ACK corect sender-ul trimite urmatorul pachet si avanseaza Seq No. 
+   Cind un cadru corect ajunge la receiver se verifica Seq No pentru a se vedea daca e duplicat sau nu.
+   Daca nu este, e acceptat si ACK e generat.
+   De asemenea, am schimbat dimensiunea pachetului la fiecare trimitere.
+   La consola, mesajele sunt scrise in ordine si se observa ca programul functioneaza corect. Daca redirectionam outputul intr-un fisier cu comanda ./run_experiment.sh > log.txt, observam ca nu se mai pastreaza ordinea din cauza ca avem doua procese care scriu in acelasi timp in acelasi fisier.
+   Fisierul makefile contine si targetul log pentru redirectionarea in fisier.
+   Am luat diferite valori ale parametrului CORRUPT si programul functioneaza chiar si pentru valori foarte mari ale acestuia.
+   Am realizat si verificarea fisierelor cu diff si programul functioneaza.
